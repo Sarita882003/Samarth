@@ -1,0 +1,33 @@
+Type,Vehicles Category,Type of Vehicles,Newly registered-2009-10,Newly registered-2010-11,Total registered as on 31st March-2010,Total registered as on 31st March-2011
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,NA,NA,NA,NA
+Transport,II. Trucks & Lorries,Trucks & Lorries,8473,6987,66485,73472
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,NA,NA,NA,NA
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,NA,NA,NA,NA
+Transport,Total-III. Light Motor Vehicles (Goods),Total Light Motor Vehicles (Goods),NA,NA,NA,NA
+Transport,IV. Buses,Stage carriages,NA,NA,NA,NA
+Transport,IV. Buses,Contract carriages,NA,NA,NA,NA
+Transport,IV. Buses,Private service vehicles,NA,NA,NA,NA
+Transport,IV. Buses,Other buses,NA,NA,NA,NA
+Transport,Total-IV. Buses,Total Buses,1555,1494,21209,22703
+Transport,V. Taxis,Motor cabs,NA,NA,NA,NA
+Transport,V. Taxis,Maxi cabs,NA,NA,NA,NA
+Transport,V. Taxis,Other taxis,NA,NA,NA,NA
+Transport,Total- V. Taxis,Total Taxis,7347,5419,38204,43623
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,NA,NA,NA,NA
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,NA,NA,NA,NA
+Transport,Total- VI. Light Motor Vehicles (Passengers),Total Light Motor Vehicles (Passengers),12392,17422,74968,92390
+Transport,VII. Motor cycles on hire,Motor cycles on hire,NA,NA,NA,NA
+Transport,Total Transport(I to VII),Total Transport,29767,31322,200866,232188
+Non Transport,I. Two wheelers,Scooters,NA,NA,NA,NA
+Non Transport,I. Two wheelers,Mopeds,NA,NA,NA,NA
+Non Transport,I. Two wheelers,Motor cycles,NA,NA,NA,NA
+Non Transport,Total-I. Two wheelers,Total Two wheelers,241856,292404,1606613,1899017
+Non Transport,II. Cars,Cars,14954,18814,188031,136845
+Non Transport,III. Jeeps,Jeeps,9862,9746,66132,75878
+Non Transport,IV. Omni buses,Omni buses,NA,NA,NA,NA
+Non Transport,V. Tractors,Tractors,19496,21055,175500,196555
+Non Transport,VI. Trailers,Trailers,10529,10942,104272,115214
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,969,1948,15572,17512
+Non Transport,Total Non Transport (I to VII),Total Non-Transport,297666,354909,2156120,2441021
+Transport + Non-transport,Grand Total (Transport + Non-Transport),Grand Total (Transport + Non-Transport),327433,386231,2356986,2673209
+,,,,,,

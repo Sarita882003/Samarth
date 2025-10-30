@@ -1,0 +1,32 @@
+Type,Vehicles Category,Type of Vehicles,Newly registered-2011-12,Total registered as on 31st March 2012
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,1889,NA
+Transport,II. Trucks & Lorries,Trucks & Lorries,9719,83191
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,4447,NA
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,1183,NA
+Transport,Total-III. Light Motor Vehicles (Goods),Total Light Motor Vehicles (Goods),5630,NA
+Transport,IV. Buses,Stage carriages,NA,NA
+Transport,IV. Buses,Contract carriages,NA,NA
+Transport,IV. Buses,Private service vehicles,NA,NA
+Transport,IV. Buses,Other buses,NA,NA
+Transport,Total-IV. Buses,Total Buses,1394,24097
+Transport,V. Taxis,Motor cabs,NA,NA
+Transport,V. Taxis,Maxi cabs,NA,NA
+Transport,V. Taxis,Other taxis,NA,NA
+Transport,Total- V. Taxis,Total Taxis,8595,52218
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,NA,NA
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters *,19515,NA
+Transport,Total- VI. Light Motor Vehicles (Passengers),Total Light Motor Vehicles (Passengers),19515,113088
+Transport,VII. Motor cycles on hire,Motor cycles on hire,NA,NA
+Transport,Total Transport(I to VII),Total Transport,46742,272594
+Non Transport,I. Two wheelers,Scooters,602,NA
+Non Transport,I. Two wheelers,Mopeds,NA,NA
+Non Transport,I. Two wheelers,Motor cycles,333450,NA
+Non Transport,Total-I. Two wheelers,Total Two wheelers,334052,2230069
+Non Transport,II. Cars,Cars,23495,160340
+Non Transport,III. Jeeps,Jeeps,9071,84949
+Non Transport,IV. Omni buses,Omni buses,NA,NA
+Non Transport,V. Tractors,Tractors,22954,219509
+Non Transport,VI. Trailers,Trailers,11404,126618
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,1289,18801
+Non Transport,Total Non Transport (I to VII),Total Non-Transport,402265,2840286
+Transport + Non-transport,Grand Total (Transport + Non-Transport),Grand Total (Transport + Non-Transport),449007,3112880

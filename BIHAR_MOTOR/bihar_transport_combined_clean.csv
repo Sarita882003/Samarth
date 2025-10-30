@@ -1,0 +1,349 @@
+type,vehicles_category,type_of_vehicles,newly_registered_2002_03,newly_registered_2003_04,total_registered_as_on_31_3_2003,total_registered_as_on_31_3_2004,newly_registered_2004_05,newly_registered_2005_06,total_registered_as_on_31_3_2005,total_registered_as_on_31_3_2006,newly_registered_2009_10,newly_registered_2010_11,total_registered_as_on_march_2010,total_registered_as_on_march_2011,newly_registered_2006_07,newly_registered_2007_08,newly_registered_2008_09,total_registered_as_on_2007,total_registered_as_on_2008,total_registered_as_on_2009,source_file,newly_registered_2011_12,total_registered_as_on_march_2012
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,152.0,368.0,48212.0,30516.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,582.0,192.0,9577.0,9491.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,69.0,1100.0,7130.0,22805.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,1828.0,2155.0,32615.0,5998.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,1133.0,548.0,33701.0,3509.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,II. Cars,Cars,3497.0,3846.0,61832.0,27508.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,1773.0,0.0,21726.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,60.0,0.0,3259.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,V. Tractors,Tractors,4151.0,6019.0,111200.0,77848.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,VI. Trailers,Trailers,2642.0,3024.0,66497.0,50403.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,1296.0,318.0,4779.0,2928.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,489.0,579.0,49437.0,50016.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,146.0,113.0,16158.0,16271.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,284.0,427.0,22271.0,22698.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,2882.0,3273.0,39823.0,43096.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,284.0,427.0,2227.0,2269.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,3499.0,5062.0,71834.0,76896.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,1836.0,2321.0,39542.0,41863.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,146.0,113.0,16158.0,16271.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,5244.0,3509.0,126968.0,130477.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,3056.0,2440.0,73154.0,75594.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,410.0,1306.0,7263.0,8569.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8473.0,6987.0,66485.0,73472.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14954.0,18814.0,188031.0,136845.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9862.0,9746.0,66132.0,75878.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19496.0,21055.0,175500.0,196555.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10529.0,10942.0,104272.0,115214.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,969.0,1948.0,15572.0,17512.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+,nan,nan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1989.0,2409.0,3598.0,52005.0,54414.0,58012.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5027.0,6030.0,8423.0,48123.0,54153.0,62576.0,,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7409.0,8223.0,10549.0,84305.0,92528.0,103077.0,,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4430.0,4229.0,5748.0,46293.0,50522.0,56270.0,,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6160.0,8164.0,11203.0,136637.0,144801.0,156004.0,,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5281.0,5358.0,7510.0,80875.0,86233.0,93743.0,,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1781.0,2665.0,1588.0,10350.0,13015.0,14603.0,,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,152.0,368.0,48212.0,30516.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,582.0,192.0,9577.0,9491.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,69.0,1100.0,7130.0,22805.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,1828.0,2155.0,32615.0,5998.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,1133.0,548.0,33701.0,3509.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,II. Cars,Cars,3497.0,3846.0,61832.0,27508.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,1773.0,0.0,21726.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,60.0,0.0,3259.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,4151.0,6019.0,111200.0,77848.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,2642.0,3024.0,66497.0,50403.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,1296.0,318.0,4779.0,2928.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2004_05_1.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,489.0,579.0,49437.0,50016.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,146.0,113.0,16158.0,16271.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,284.0,427.0,22271.0,22698.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,2882.0,3273.0,39823.0,43096.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,284.0,427.0,2227.0,2269.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,3499.0,5062.0,71834.0,76896.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,1836.0,2321.0,39542.0,41863.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,146.0,113.0,16158.0,16271.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,5244.0,3509.0,126968.0,130477.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,3056.0,2440.0,73154.0,75594.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,410.0,1306.0,7263.0,8569.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2006_07_1.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8473.0,6987.0,66485.0,73472.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14954.0,18814.0,188031.0,136845.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9862.0,9746.0,66132.0,75878.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19496.0,21055.0,175500.0,196555.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10529.0,10942.0,104272.0,115214.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,969.0,1948.0,15572.0,17512.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+,nan,nan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.3.4_Bihar_rtyb_2010_11_1.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1989.0,2409.0,3598.0,52005.0,54414.0,58012.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5027.0,6030.0,8423.0,48123.0,54153.0,62576.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7409.0,8223.0,10549.0,84305.0,92528.0,103077.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4430.0,4229.0,5748.0,46293.0,50522.0,56270.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6160.0,8164.0,11203.0,136637.0,144801.0,156004.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5281.0,5358.0,7510.0,80875.0,86233.0,93743.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1781.0,2665.0,1588.0,10350.0,13015.0,14603.0,2.4.4_Bihar_rtyb_2007_09_1.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,152.0,368.0,48212.0,30516.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,582.0,192.0,9577.0,9491.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,69.0,1100.0,7130.0,22805.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,1828.0,2155.0,32615.0,5998.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,1133.0,548.0,33701.0,3509.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,II. Cars,Cars,3497.0,3846.0,61832.0,27508.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,1773.0,0.0,21726.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,60.0,0.0,3259.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,4151.0,6019.0,111200.0,77848.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,2642.0,3024.0,66497.0,50403.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,1296.0,318.0,4779.0,2928.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,489.0,579.0,49437.0,50016.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,146.0,113.0,16158.0,16271.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,284.0,427.0,22271.0,22698.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,2882.0,3273.0,39823.0,43096.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,284.0,427.0,2227.0,2269.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,3499.0,5062.0,71834.0,76896.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,1836.0,2321.0,39542.0,41863.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,146.0,113.0,16158.0,16271.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,5244.0,3509.0,126968.0,130477.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,3056.0,2440.0,73154.0,75594.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,410.0,1306.0,7263.0,8569.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8473.0,6987.0,66485.0,73472.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14954.0,18814.0,188031.0,136845.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9862.0,9746.0,66132.0,75878.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19496.0,21055.0,175500.0,196555.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10529.0,10942.0,104272.0,115214.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,969.0,1948.0,15572.0,17512.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+,nan,nan,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1989.0,2409.0,3598.0,52005.0,54414.0,58012.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5027.0,6030.0,8423.0,48123.0,54153.0,62576.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7409.0,8223.0,10549.0,84305.0,92528.0,103077.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4430.0,4229.0,5748.0,46293.0,50522.0,56270.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6160.0,8164.0,11203.0,136637.0,144801.0,156004.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5281.0,5358.0,7510.0,80875.0,86233.0,93743.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1781.0,2665.0,1588.0,10350.0,13015.0,14603.0,bihar_transport_combined.csv,0.0,0.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,1889.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,9719.0,83191.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,4447.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,1183.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters *,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,19515.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,602.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,333450.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,23495.0,160340.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,9071.0,84949.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,22954.0,219509.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,11404.0,126618.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,bihar_transport_combined.csv,1289.0,18801.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,1889.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,9719.0,83191.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,4447.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,1183.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters *,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,19515.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,602.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,333450.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,23495.0,160340.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,9071.0,84949.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,22954.0,219509.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,11404.0,126618.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rtyb_2011_12tab2.2.4_Bihar.csv,1289.0,18801.0
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1889.0,0.0
+Transport,II. Trucks & Lorries,Trucks & Lorries,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,9719.0,83191.0
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,4447.0,0.0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1183.0,0.0
+Transport,IV. Buses,Stage carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Contract carriages,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Private service vehicles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,IV. Buses,Other buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Motor cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Maxi cabs,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,V. Taxis,Other taxis,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters *,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,19515.0,0.0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Scooters,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,602.0,0.0
+Non Transport,I. Two wheelers,Mopeds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,I. Two wheelers,Motor cycles,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,333450.0,0.0
+Non Transport,II. Cars,Cars,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,23495.0,160340.0
+Non Transport,III. Jeeps,Jeeps,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,9071.0,84949.0
+Non Transport,IV. Omni buses,Omni buses,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,0.0,0.0
+Non Transport,V. Tractors,Tractors,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,22954.0,219509.0
+Non Transport,VI. Trailers,Trailers,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,11404.0,126618.0
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,1289.0,18801.0

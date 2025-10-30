@@ -1,0 +1,25 @@
+vehicles_category,type_of_vehicles,Type,newly_registered_2002,newly_registered_2003,newly_registered_2004,newly_registered_2005,newly_registered_2006,newly_registered_2007,newly_registered_2008,newly_registered_2009,newly_registered_2010,newly_registered_2011,total_registered_2003,total_registered_2004,total_registered_2005,total_registered_2006,total_registered_2007,total_registered_2008,total_registered_2009,total_registered_2010,total_registered_2011
+Non Transport,I. Two wheelers,Mopeds,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Non Transport,I. Two wheelers,Motor cycles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000350,0,0
+Non Transport,I. Two wheelers,Scooters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1806,0,0
+Non Transport,II. Cars,Cars,10491,11538,10497,15186,24669,31647,252915,44862,56442,22227,185496,82524,215502,230688,277584,309231,70485,564093,410535
+Non Transport,III. Jeeps,Jeeps,0,5319,5508,6963,12687,17244,138879,29586,29238,13290,0,65178,118626,125589,151566,168810,27213,198396,227634
+Non Transport,IV. Omni buses,Omni buses,0,180,438,339,0,0,0,0,0,0,0,9777,48474,48813,0,0,0,0,0
+Non Transport,V. Tractors,Tractors,12453,18057,15732,10527,24492,33609,409911,58488,63165,18480,333600,233544,380904,391431,434403,468012,68862,526500,589665
+Non Transport,VI. Trailers,Trailers,7926,9072,9168,7320,16074,22530,242625,31587,32826,15843,199491,151209,219462,226782,258699,281229,34212,312816,345642
+Non Transport,VII. Other vehicles not covered,Other vehicles not covered,3888,954,1230,3918,7995,4764,31050,2907,5844,5343,14337,8784,21789,25707,39045,43809,3867,46716,52536
+Transport,I. Multiaxled / Articulated Vehicles,Multiaxled / Articulated Vehicles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5667,0,0
+Transport,II. Trucks & Lorries,Trucks & Lorries,456,1104,1467,1737,7227,10794,156015,25419,20961,5967,144636,91548,148311,150048,163242,174036,29157,199455,220416
+Transport,III. Light Motor Vehicles (Goods),Four Wheelers,1746,576,0,0,0,0,0,0,0,0,28731,28473,0,0,0,0,13341,0,0
+Transport,III. Light Motor Vehicles (Goods),Three Wheelers,207,3300,0,0,18090,25269,144369,0,0,15081,21390,68415,0,0,162459,187728,3549,0,0
+Transport,IV. Buses,Contract carriages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transport,IV. Buses,Other buses,0,0,438,339,0,0,0,0,0,0,0,0,48474,48813,0,0,0,0,0
+Transport,IV. Buses,Private service vehicles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transport,IV. Buses,Stage carriages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transport,V. Taxis,Maxi cabs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transport,V. Taxis,Motor cabs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Transport,V. Taxis,Other taxis,0,0,852,1281,0,0,0,0,0,0,0,0,66813,68094,0,0,0,0,0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters,3399,1644,852,1281,0,0,0,0,0,0,101103,10527,6681,6807,0,0,0,0,0
+Transport,VI. Light Motor Vehicles (Passengers),Four to six seaters *,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58545,0,0
+Transport,VI. Light Motor Vehicles (Passengers),Three seaters,5484,6465,8646,9819,0,0,0,0,0,0,97845,17994,119469,129288,0,0,0,0,0
+Transport,VII. Motor cycles on hire,Motor cycles on hire,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
